@@ -5,6 +5,8 @@ learning different kinds of word's order via training a global model and a local
 
 Global model is used to find the next start point when a stroke is finished , and local model is used to finish a stroke.
 
+![](arch.png)
+
 i.e.
 
 ![](output/out.gif)
@@ -13,6 +15,6 @@ i.e.
 
 ![](output/out4.gif)
 
-![](arch.png)
+
 
 
