@@ -13,6 +13,6 @@ i.e.
 
 ![](output/out4.gif)
 
-![](Screenshot from 2020-02-25 15-56-59.png)
+![](arch.png)
 
 
